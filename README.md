@@ -1,14 +1,10 @@
 # PyBer_Analysis
-
-###### Overview of the analysis: The purpose of the new analysis is well defined. (3 pt)
         
 ## Overview of the Analysis-
 
 In this analysis we are working with Pyber executives to combine two important datasets (city_data and ride_data) utilizing *Python* and *Pandas*. In this new combined dataset, we segmented important KPIs like *"Total Rides", "Total Drivers", Total Fares", "Average Fare per Ride", and "Average Fare per Driver"* for each *city type*. 
 
 The Pyber Analysis can be spearted into two separate outcomes: The *pyber_data_df* dataframe that breaks down KPIs by City Type, and the *weekly_fares_graph* that provides us a visual representation of how *fares* weekly fluctuate on each one of the three different city *types*. 
-
-###### Results:There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
    
 ## Results   
    
@@ -29,9 +25,6 @@ An interesting observation we came across was the significant gap between *Rural
 ![image](https://github.com/ejyongc/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png) 
 
 The second outcome of this analysis is our *"weekly_fares_graph"*. This graph allow us to see the Jan 2019 - April 2019 weekly trend of the total fares for each city type. Similarly to our firsts outcome (pyber_summary_df), this graph also determines that the *Total Rural Fare* is consitently higher week-over-week compared to the suburban and rural city types. 
-
-
-###### Summary:There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
 
 ## Summary
 
