@@ -6,10 +6,10 @@ In this analysis we are working with Pyber executives to combine two important d
 
 The Pyber Analysis can be separated into two separate outcomes: The *"pyber_data_df"* dataframe that breaks down KPIs by *city type*, and the *"weekly_fares_graph"* that provides us a visual representation of how *fares* weekly fluctuate on each one of the three different city *types*. 
    
+   
 ## Results   
-   
 ### Pyber Data Summary  
-   
+
 ![image](https://github.com/ejyongc/PyBer_Analysis/blob/main/Analysis/pyber_summary_df.png)
 
 In the first outcome of the Pyber Analysis we can identify some key differences between *Rural, *Suburban,* and *Urban* city *types*. The first significant differences are the *"Total Rides"* and *"Total Drivers"*. *Urban* drives are 2.16X the size of *Suburban* and *Rural* drivers combined. Very similarly, the total amount of drivers on a *Urban* City is 4.23X the size of *Suburban* and *Rural* cities combined. 
@@ -26,8 +26,8 @@ An interesting observation we came across was the significant gap between *rural
 
 The second outcome of this analysis is our *"weekly_fares_graph"*. This graph allow us to see the Jan 2019 - April 2019 weekly trend of the *"Total Fares"* for each *city type*. Similarly to our firsts outcome (pyber_summary_df), this graph also determines that the *total rural fare* is consistently higher week-over-week compared to the *suburban and rural city types.* 
 
-## Summary
 
+## Summary
 In this analysis we have identified the natural correlation between the population density and the numbers of drivers, rides, and fare on a city. Although this natural correlation can sound self-intuitive, it holds additional pieces of information that we believe will be valuable to Pyber executives. 
 
 For instance, we can conclude that the *"Average Fare per Driver"* on a *rural* city is 3.4x times higher than a *urban* city. 
