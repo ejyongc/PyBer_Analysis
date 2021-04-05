@@ -9,7 +9,6 @@ The Pyber Analysis can be separated into two separate outcomes: The *"pyber_data
    
 ## Results   
 ### Pyber Data Summary  
-
 ![image](https://github.com/ejyongc/PyBer_Analysis/blob/main/Analysis/pyber_summary_df.png)
 
 In the first outcome of the Pyber Analysis we can identify some key differences between *Rural, *Suburban,* and *Urban* city *types*. The first significant differences are the *"Total Rides"* and *"Total Drivers"*. *Urban* drives are 2.16X the size of *Suburban* and *Rural* drivers combined. Very similarly, the total amount of drivers on a *Urban* City is 4.23X the size of *Suburban* and *Rural* cities combined. 
