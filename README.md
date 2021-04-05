@@ -16,6 +16,7 @@ With this information at hand, Pyber executives could feel inclined to call thei
         There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
         
 ##ADD GRAPH HERE##
+
 In the first outcome of the Pyber Analysis we can identify some key differences between *Rural, Suburban,* and *Urban* city *types*. The first significant diffrences are the *Total Rides* and *Total Drivers*. Urban Drives are 2.16X the size of Suburban and Rural rides combined. Very similarly the total amount of drivers on a Urban City is 4.23X the size of Suburban and Rural cities combined. 
 The significant differnce of *Total Rides* and *Total Drivers* amoing the city types leads to a high sum of *Total Fares* on Urban cities as well.  In this case, Urban cities generated +63% or $16k more in *Total Fares* than the Suburban and Rural city types combined.
 
@@ -23,7 +24,12 @@ We can see how how naturally more heavily populated cities can generate much hig
 
 On our analysis we discovered that the *"Average Fare per Ride"* could flucuate between $4-$10 dollars depending on the city type. This could be explpained by idea that rides on rural cities are longer distances than those in Urban cities. 
 
-An interesting observation we came across was the significant gap between *Rural* and *Urban* *"Averages Fare per Driver"*. This metric could raise the question that drives in *Rural* cities could be potentially generating more money than drivers in *Urban* cities. Although we don't know this for certain, we'd want to make sure drivers that chose to work for Pyber are fairly being compensated based on their work and now based on where they live. 
+An interesting observation we came across was the significant gap between *Rural* and *Urban* *"Averages Fare per Driver"*. This metric could raise the question that drives in *Rural* cities could be potentially generating more money than drivers in *Urban* cities. Although we don't know this for certain, we'd want to make sure drivers that chose to work for Pyber are fairly being compensated based on their work and not based on where they are located.  
+
+##ADD GRAPH HERE##
+
+The second outcome of this analysis is our *"weekly_fares_graph"*. This graph allow us to see the Jan 2019 - April 2019 weekly trend of the total fares for each city type. Similarly to our firsts outcome (pyber_summary_df), this graph also determines that the *Total Rural Fare* is consitently higher week-over-week compared to the suburban and rural city types. 
+
 
 
 In this case we can see how a higher density of drivers on a city type can cause *Average Fare per Driver* to be decrease by almost -70%
